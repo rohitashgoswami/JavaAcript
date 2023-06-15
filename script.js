@@ -106,3 +106,17 @@ Topics is this tutorial.....
     Exercise question
     1. What is JavaScript?
     2. How many types of JavaScript variables ?
+
+
+    Data Types....
+        1. Primitive data type.
+        String => this data type representse the sequence of characteers.
+        Number => this data type representse numeric values like "100, 50, 1,"
+        Boolean => this data type representse the boolean value true or false.
+        Undefined => this is representse undefined value.
+        Null => this is representse null value.
+
+        2. Non-Primitive data type..
+        Object 
+        Array
+        RegExp
