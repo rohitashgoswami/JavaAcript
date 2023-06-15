@@ -116,6 +116,26 @@ Topics is this tutorial.....
         Undefined => this is representse undefined value.
         Null => this is representse null value.
 
+        exaple..
+           const name = "Rocky"; //this is string and string will be written in "" 
+           const age = 20; //this is number
+           const isCool = true; //this is boolean
+           const x = null;
+           const y; //this is undefined 
+
+           console.log(typeof variable name); for checking wich data type is it...
+
+           //Concatenation
+           console.log('My name is' + name + 'and i am' + age); //output => My name is Rocky and I am 20
+
+           //Template String
+           console.log(`My name is ${name} and I am ${age}`);  //output => My name is Rocky and I am 20
+
+           const hello = `My name is ${name} and I am ${age}`; 
+
+           console.log(hello);   //output => My name is Rocky and I am 20
+
+
         2. Non-Primitive data type..
         Object 
         Array
