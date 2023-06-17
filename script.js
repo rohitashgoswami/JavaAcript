@@ -135,7 +135,14 @@ Topics is this tutorial.....
 
            console.log(hello);   //output => My name is Rocky and I am 20
 
-
+        String properties....
+            const s = "technology, computer, it, code";
+            console.log(name.length); //this will give us the length of variable value
+            console.log(name.toUpperCase());
+            console.log(name.toLowerCase());
+            console.log(name.substring(0, 4).toUpperCase());
+            console.log(s.split(''));
+            console.log(s.split(', '));
         2. Non-Primitive data type..
         Object 
         Array
